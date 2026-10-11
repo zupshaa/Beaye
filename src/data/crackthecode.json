@@ -1,0 +1,9 @@
+{
+  "title": "Crack the Code",
+  "pin_length": 4,
+  "pin": "0505",
+  "pin_sha256": "131e27b7715c43825f14696b907812d34fb86a529dd8c98fedbf87016f5d9149",
+  "hint": "Jatim Park 3",
+  "secret_message": "jatim park 1 ga si bang. roller coasternya seruuu",
+  "wrong_pin_text": "NT bang, salah."
+}
