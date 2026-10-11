@@ -1,0 +1,258 @@
+{
+  "title": "Quiz",
+  "questions": [
+    {
+      "number": 1,
+      "question": "Kamu pake serum apa?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hanasui Power Barrier"
+        },
+        {
+          "id": "b",
+          "text": "Hanasui Vit C"
+        },
+        {
+          "id": "c",
+          "text": "Hanasui Power Bright"
+        },
+        {
+          "id": "d",
+          "text": "Hanasui Power Peeling"
+        }
+      ],
+      "correct": "a"
+    },
+    {
+      "number": 2,
+      "question": "Ada berapa anak pipik+tante wiwit (yang bocil)?",
+      "options": [
+        {
+          "id": "a",
+          "text": "8"
+        },
+        {
+          "id": "b",
+          "text": "5"
+        },
+        {
+          "id": "c",
+          "text": "4"
+        },
+        {
+          "id": "d",
+          "text": "6"
+        }
+      ],
+      "correct": "d"
+    },
+    {
+      "number": 3,
+      "question": "Kita pertama kali ketemu di?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Mi kane"
+        },
+        {
+          "id": "b",
+          "text": "Salon de Fiesta"
+        },
+        {
+          "id": "c",
+          "text": "Depan rumahku"
+        },
+        {
+          "id": "d",
+          "text": "Neighbour"
+        }
+      ],
+      "correct": "d"
+    },
+    {
+      "number": 4,
+      "question": "Di Jatim Park 3, kita mewarnai apa?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Gurita dan kuda laut"
+        },
+        {
+          "id": "b",
+          "text": "Gurita aja"
+        },
+        {
+          "id": "c",
+          "text": "Gurita dan ikan"
+        },
+        {
+          "id": "d",
+          "text": "Kuda laut dan kerang"
+        }
+      ],
+      "correct": "c"
+    },
+    {
+      "number": 5,
+      "question": "Ada berapa orang di grup “Healing?”",
+      "options": [
+        {
+          "id": "a",
+          "text": "8"
+        },
+        {
+          "id": "b",
+          "text": "10"
+        },
+        {
+          "id": "c",
+          "text": "9"
+        },
+        {
+          "id": "d",
+          "text": "7"
+        }
+      ],
+      "correct": "a"
+    },
+    {
+      "number": 6,
+      "question": "Brand lippies yang pertama kali kamu beliin aku?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Dear Me Beauty"
+        },
+        {
+          "id": "b",
+          "text": "True to Skin"
+        },
+        {
+          "id": "c",
+          "text": "Emina"
+        },
+        {
+          "id": "d",
+          "text": "Luxcrime"
+        }
+      ],
+      "correct": "a"
+    },
+    {
+      "number": 7,
+      "question": "House harry potterku?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Hufflepuff"
+        },
+        {
+          "id": "b",
+          "text": "Gryffindor"
+        },
+        {
+          "id": "c",
+          "text": "Ravenclaw"
+        },
+        {
+          "id": "d",
+          "text": "Slytherin"
+        }
+      ],
+      "correct": "a"
+    },
+    {
+      "number": 8,
+      "question": "Di signor panino kamu pesen apa?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Frittata"
+        },
+        {
+          "id": "b",
+          "text": "Cotoletta"
+        },
+        {
+          "id": "c",
+          "text": "Tono"
+        },
+        {
+          "id": "d",
+          "text": "Diavola"
+        }
+      ],
+      "correct": "d"
+    },
+    {
+      "number": 9,
+      "question": "Pertama kali pindah WhatsApp bulan apa?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Juli"
+        },
+        {
+          "id": "b",
+          "text": "November"
+        },
+        {
+          "id": "c",
+          "text": "Mei"
+        },
+        {
+          "id": "d",
+          "text": "Desember"
+        }
+      ],
+      "correct": "d"
+    },
+    {
+      "number": 10,
+      "question": "Waktu di Jatim Park 3, aku ngefoto binatang berkelompok pake aplikasi Oldroll. Apa nama binatangnya?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Kucing"
+        },
+        {
+          "id": "b",
+          "text": "Kuda"
+        },
+        {
+          "id": "c",
+          "text": "Panda"
+        },
+        {
+          "id": "d",
+          "text": "Monyet"
+        }
+      ],
+      "correct": "c"
+    },
+    {
+      "number": 11,
+      "question": "Tempat ngedate yang sebenarnya aku pengen tapi belum pernah kasih tau?",
+      "options": [
+        {
+          "id": "a",
+          "text": "Lafayette"
+        },
+        {
+          "id": "b",
+          "text": "Sumber maron"
+        },
+        {
+          "id": "c",
+          "text": "Donart day Rilo"
+        },
+        {
+          "id": "d",
+          "text": "Manna cooking studio"
+        }
+      ],
+      "correct": "d"
+    }
+  ]
+}
